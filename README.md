@@ -82,13 +82,13 @@ This report analyzes Adidas product sales performance across 2020 and 2021 to id
 
 ## 💡 Recommendations
 
-1. **Replicate the Midwest retailer-expansion model** — new retailer onboarding drove 51.1% of that region's 2021 revenue; apply the same playbook to South and Southeast, which grew more moderately without this dynamic.
+1. **Replicate the Midwest retailer-expansion model**  new retailer onboarding drove 51.1% of that region's 2021 revenue; apply the same playbook to South and Southeast, which grew more moderately without this dynamic.
 2. **Investigate before acting** on four open questions:
    - Confirm online's 2020 launch date to rule out a partial-year artifact in its transaction-value growth.
    - Determine whether West Gear's pricing decline explains the West region's pricing decline (cross-tab `Sales_Method`, `Price_Per_Unit`, `Retailer` filtered to West Gear × West).
    - Confirm whether Women's Athletic Footwear's underperformance is a pricing gap vs. other products.
    - Test whether sales-method mix, retailer expansion, and regional expansion are one connected story (three-way breakdown of `Sales_Method` × `Retailer` × `Region`).
-3. **Protect Men's Street Footwear** — it remains the single largest revenue driver and should be safeguarded in inventory and channel planning.
+3. **Protect Men's Street Footwear**  it remains the single largest revenue driver and should be safeguarded in inventory and channel planning.
 4. **Monitor without immediate action:** West region's slower growth (market maturity, not underperformance), Walmart's below-average growth (+26.7%, one year isn't yet a trend), and peak-timing shifts (re-evaluate once a third year of data is available).
 
 ## 🏁 Conclusion
