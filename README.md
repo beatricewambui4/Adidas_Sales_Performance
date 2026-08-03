@@ -8,11 +8,11 @@ A SQL-based comparative sales analysis of Adidas product performance across 2020
 
 ## 📊 Overview
 
-Adidas generated **$899.9M** in combined revenue across 2020–2021, with total revenue growing **294.3% year-over-year** — from $182.1M in 2020 to $717.8M in 2021. This project uses MySQL to dissect that growth across six dimensions and identify which specific drivers mattered most, while also surfacing data-quality flags and open questions worth resolving before 2022 budget decisions.
+Adidas generated **$899.9M** in combined revenue across 2020–2021, with total revenue growing **294.3% year-over-year**  from $182.1M in 2020 to $717.8M in 2021. This project uses MySQL to dissect that growth across six dimensions and identify which specific drivers mattered most, while also surfacing data-quality flags and open questions worth resolving before 2022 budget decisions.
 
 ## 🎯 Business Objective
 
-This report analyzes Adidas product sales performance across 2020 and 2021 to identify year-over-year revenue trends and their key drivers. It compares the two years across six dimensions — monthly and daily revenue patterns, top-performing products, retailer performance, geographic performance (city, region, state), and sales method — to determine which drivers of the 2020-to-2021 change were most significant.
+This report analyzes Adidas product sales performance across 2020 and 2021 to identify year-over-year revenue trends and their key drivers. It compares the two years across six dimensions  monthly and daily revenue patterns, top-performing products, retailer performance, geographic performance (city, region, state), and sales method  to determine which drivers of the 2020-to-2021 change were most significant.
 
 **Questions answered:**
 
