@@ -93,7 +93,7 @@ This report analyzes Adidas product sales performance across 2020 and 2021 to id
 
 ## 🏁 Conclusion
 
-2021's growth was a genuine, structural expansion — evidenced by consistent outsized growth across products, retailers, and regions rather than concentration in a single area — driven by retailer-network expansion, regional diversification, and continued strength in the top product line. A secondary pattern of value dilution in West Gear/West region and an unvalidated online growth trend should be resolved before finalizing 2022 budget and retailer decisions.
+2021's growth was a genuine, structural expansion  evidenced by consistent outsized growth across products, retailers, and regions rather than concentration in a single area  driven by retailer-network expansion, regional diversification, and continued strength in the top product line. A secondary pattern of value dilution in West Gear/West region and an unvalidated online growth trend should be resolved before finalizing 2022 budget and retailer decisions.
 
 ## 🛠️ Tech Stack
 
