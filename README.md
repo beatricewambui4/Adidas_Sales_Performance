@@ -70,13 +70,13 @@ This report analyzes Adidas product sales performance across 2020 and 2021 to id
 
 ## 🔍 Key Insights
 
-- **Revenue grew 294.3% YoY** ($182.1M → $717.8M) — broad-based across retailers, regions, and products, not concentrated in one area.
+- **Revenue grew 294.3% YoY** ($182.1M → $717.8M)  broad-based across retailers, regions, and products, not concentrated in one area.
 - **Data quality confirmed:** both years have full 12-month coverage (359 and 365 distinct transaction days), so the growth reflects genuine performance, not incomplete records.
 - **Peak timing shifted** between years: peak month moved from April (2020) to July (2021); peak day moved from Friday (2020) to Thursday (2021) — with only two years of data, not yet confirmed as a stable seasonal pattern.
 - **Men's Street Footwear** was the #1 revenue product in both years (20.77% → 23.82% share), growing 352.1% YoY — faster than the company average — driven primarily by volume (units sold up 398.2%).
 - **Women's Athletic Footwear** was the lowest-revenue product both years, likely due to a pricing gap rather than weak demand (it was not the lowest by units sold).
 - **Retailer landscape shifted significantly:** West Gear fell from 49.59% share (2020) to 21.27% (2021) despite growing 69.1% in absolute terms — simply outgrown by faster-scaling partners. Foot Locker rose to #1. Kohl's surged from 0.42% to 14.12% share (+13,262.7%). Amazon entered as a new retailer, contributing 10.82% of 2021 revenue.
-- **Regional convergence:** West remained #1 both years but its share fell from 42.23% to 26.89% (slowest growth, +151.1%). Midwest grew **+1,640.6%**, the largest swing in the dataset — confirmed to be driven by three new retailers entering the region.
+- **Regional convergence:** West remained #1 both years but its share fell from 42.23% to 26.89% (slowest growth, +151.1%). Midwest grew **+1,640.6%**, the largest swing in the dataset  confirmed to be driven by three new retailers entering the region.
 - **Sales-method mix flipped:** in 2020, in-store drove the majority of revenue despite the fewest transactions; by 2021, online's transaction volume and average transaction value both grew sharply (average transaction value +554%), though this still needs validation against online's 2020 launch date.
 - **A secondary "value dilution" pattern** emerged: West Gear and the West region both show declining revenue-per-unit even as absolute revenue grows, suggesting a possible shift toward volume- or discount-driven growth in parts of the business.
 
@@ -97,8 +97,8 @@ This report analyzes Adidas product sales performance across 2020 and 2021 to id
 
 ## 🛠️ Tech Stack
 
-- **SQL (MySQL)** — all aggregation, ranking, and YoY calculations via CTEs and window functions (`RANK() OVER (PARTITION BY ...)`)
-- **PowerPoint** — report and findings presentation
+- **SQL (MySQL)**  all aggregation, ranking, and YoY calculations via CTEs and window functions (`RANK() OVER (PARTITION BY ...)`)
+- **PowerPoint**  report and findings presentation
 
 ## 📁 Repository Structure
 
