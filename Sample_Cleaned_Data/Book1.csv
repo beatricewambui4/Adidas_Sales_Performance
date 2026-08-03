@@ -1,0 +1,30 @@
+Retailer,Retailer_Id,Invoice_Date,Region,State,City,Product,Price_Per_Unit,Units_Sold,Total_Sales,Operating_Profit,Operating_Margin,Sales_Method,Year_Num,Month_Num,Month_Name,Day_Num,Day_Name
+Foot Locker,1185732,1/1/2020,Northeast,New York,New York,Men's Street Footwear,50,1200,600000,300000,0.5,In-store,2020,1,January,1,Wednesday
+Foot Locker,1185732,1/2/2020,Northeast,New York,New York,Men's Athletic Footwear,50,1000,500000,150000,0.3,In-store,2020,1,January,2,Thursday
+Foot Locker,1185732,1/3/2020,Northeast,New York,New York,Women's Street Footwear,40,1000,400000,140000,0.35,In-store,2020,1,January,3,Friday
+Foot Locker,1185732,1/4/2020,Northeast,New York,New York,Women's Athletic Footwear,45,850,382500,133875,0.35,In-store,2020,1,January,4,Saturday
+Foot Locker,1185732,1/5/2020,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,0.3,In-store,2020,1,January,5,Sunday
+Foot Locker,1185732,1/6/2020,Northeast,New York,New York,Women's Apparel,50,1000,500000,125000,0.25,In-store,2020,1,January,6,Monday
+Foot Locker,1185732,1/7/2020,Northeast,New York,New York,Men's Street Footwear,50,1250,625000,312500,0.5,In-store,2020,1,January,7,Tuesday
+Foot Locker,1185732,1/8/2020,Northeast,New York,New York,Men's Athletic Footwear,50,900,450000,135000,0.3,Outlet,2020,1,January,8,Wednesday
+Foot Locker,1185732,1/21/2020,Northeast,New York,New York,Women's Street Footwear,40,950,380000,133000,0.35,Outlet,2020,1,January,21,Tuesday
+Foot Locker,1185732,1/22/2020,Northeast,New York,New York,Women's Athletic Footwear,45,825,371250,129938,0.35,Outlet,2020,1,January,22,Wednesday
+Foot Locker,1185732,1/23/2020,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,0.3,Outlet,2020,1,January,23,Thursday
+Foot Locker,1185732,1/24/2020,Northeast,New York,New York,Women's Apparel,50,1000,500000,125000,0.25,Outlet,2020,1,January,24,Friday
+Foot Locker,1185732,1/25/2020,Northeast,New York,New York,Men's Street Footwear,50,1220,610000,305000,0.5,Outlet,2020,1,January,25,Saturday
+Foot Locker,1185732,1/26/2020,Northeast,New York,New York,Men's Athletic Footwear,50,925,462500,138750,0.3,Outlet,2020,1,January,26,Sunday
+Foot Locker,1185732,1/27/2020,Northeast,New York,New York,Women's Street Footwear,40,950,380000,133000,0.35,Outlet,2020,1,January,27,Monday
+Foot Locker,1185732,1/28/2020,Northeast,New York,New York,Women's Athletic Footwear,45,800,360000,126000,0.35,Outlet,2020,1,January,28,Tuesday
+Foot Locker,1185732,1/29/2020,Northeast,New York,New York,Men's Apparel,60,850,510000,153000,0.3,Outlet,2020,1,January,29,Wednesday
+Foot Locker,1185732,1/30/2020,Northeast,New York,New York,Women's Apparel,50,950,475000,118750,0.25,Outlet,2020,1,January,30,Thursday
+Foot Locker,1185732,1/31/2020,Northeast,New York,New York,Men's Street Footwear,50,1200,600000,300000,0.5,Outlet,2020,1,January,31,Friday
+Foot Locker,1185732,2/1/2020,Northeast,New York,New York,Men's Athletic Footwear,50,900,450000,135000,0.3,Outlet,2020,2,February,1,Saturday
+Foot Locker,1185732,2/2/2020,Northeast,New York,New York,Women's Street Footwear,40,900,360000,126000,0.35,Outlet,2020,2,February,2,Sunday
+Foot Locker,1185732,2/3/2020,Northeast,New York,New York,Women's Athletic Footwear,45,825,371250,129938,0.35,Outlet,2020,2,February,3,Monday
+Foot Locker,1185732,2/4/2020,Northeast,New York,New York,Men's Apparel,60,825,495000,148500,0.3,Outlet,2020,2,February,4,Tuesday
+Foot Locker,1185732,2/5/2020,Northeast,New York,New York,Women's Apparel,50,950,475000,118750,0.25,Outlet,2020,2,February,5,Wednesday
+Foot Locker,1185732,2/6/2020,Northeast,New York,New York,Men's Street Footwear,60,1220,732000,366000,0.5,Outlet,2020,2,February,6,Thursday
+Foot Locker,1185732,2/7/2020,Northeast,New York,New York,Men's Athletic Footwear,55,925,508750,152625,0.3,Outlet,2020,2,February,7,Friday
+Foot Locker,1185732,2/8/2020,Northeast,New York,New York,Women's Street Footwear,50,900,450000,157500,0.35,Outlet,2020,2,February,8,Saturday
+Foot Locker,1185732,2/9/2020,Northeast,New York,New York,Women's Athletic Footwear,50,850,425000,148750,0.35,Outlet,2020,2,February,9,Sunday
+Foot Locker,1185732,2/10/2020,Northeast,New York,New York,Men's Apparel,60,875,525000,157500,0.3,Outlet,2020,2,February,10,Monday
